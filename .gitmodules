@@ -1,0 +1,3 @@
+[submodule "external/Serialink"]
+	path = external/Serialink
+	url = https://github.com/JayaWikrama/Serialink.git
